@@ -32,7 +32,7 @@ Moro em São Caetano do Sul/SP-BR.<br />
   - Pesquisar conteúdos sobre startups;
   - Ler livros;
   - Cozinhar;
-- 📫 Se quiser pode enviar um email para wesley.martins21@etec.sp.gov.br.
+- 📫 Se quiser pode enviar um email para wesley.martins21@etec.sp.gov.br
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleybmartins124&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-Ströngreen" />
