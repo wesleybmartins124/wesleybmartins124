@@ -16,8 +16,8 @@ Eu sou <b> Wesley Bezerra Martins</b>.
 </p>
 <p align="left" >
 Moro em São Caetano do Sul/SP-BR.<br />
-  Estudo na ETEC Jorge Street no projeto PTECH em <b>Desenvolvimento de Sistemas</b>
-  e também no IfSul em <b>Programação de Sistemas </b>.
+  Sou Técnico em <b>Desenvolvimento de Sistemas</b> pela ETEC Jorge Street
+  e também <b>Programador de Sistemas </b> pelo IfSul. 
 </p>
 
 **Mais detalhes:**
