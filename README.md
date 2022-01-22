@@ -25,7 +25,7 @@ Moro em São Caetano do Sul/SP-BR.<br />
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1624642132375.png" width="200px" />
 
-- 👩‍💻 Estou estudando Front-End utilizando o framework **React Native**;. 
+- 👩‍💻 Atualmente aprofundando meu conhecimento em **React Native**;. 
 - 💼 Sou viciado em tecnologia, por este motivo estou sempre estudando e procurando como evoluir na minha carreira;
 - 👾 Meus hobbies são: 
   - Estudar sobre hacking e UX design; 
