@@ -28,7 +28,7 @@ Moro em São Caetano do Sul/SP-BR.<br />
 - 👩‍💻 Atualmente aprofundando meu conhecimento em **React Native**;. 
 - 💼 Sou viciado em tecnologia, por este motivo estou sempre estudando e procurando como evoluir na minha carreira;
 - 👾 Meus hobbies são: 
-  - Estudar sobre hacking e UX design; 
+  - Estudar sobre Segurança da Informação, DevOps, UI e UX design; 
   - Pesquisar conteúdos sobre startups;
   - Ler livros;
   - Cozinhar;
