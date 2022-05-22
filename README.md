@@ -18,7 +18,7 @@ Eu sou <b> Wesley Bezerra Martins</b>.
 
 <p align="left" >
 Moro em São Caetano do Sul/SP-BR.<br />
-  Atualemente curso ADS pela Fatec São Caetano
+  Atualmente curso ADS pela Fatec São Caetano
   e também sou Técnico em <b>Desenvolvimento de Sistemas</b> pela ETEC Jorge Street
   e <b>Programador de Sistemas </b> pelo IfSul. 
 </p>
