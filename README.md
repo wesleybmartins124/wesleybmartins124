@@ -13,7 +13,7 @@
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <a href="https://wesleybmartins124.github.io/Wesley-Martins---Portofolio/" target="_blank">
-  <img align="right" src="https://i.imgur.com/iS7g7lm.png" width="68px" height="52px">
+  <img align="right" src="https://i.imgur.com/iS7g7lm.png" width="78px" height="62px">
 </a>
 <p align="left" >
 Eu sou <b> Wesley Bezerra Martins</b>.
