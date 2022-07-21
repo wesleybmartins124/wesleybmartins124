@@ -12,6 +12,9 @@
 <a href="https://www.linkedin.com/in/wesley-bezerra-0579811a2/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
+<a href="https://wesleybmartins124.github.io/Wesley-Martins---Portofolio/" target="_blank">
+  <img align="right" src="https://i.imgur.com/1PgrUji.png" width="48px" height="48px">
+</a>
 <p align="left" >
 Eu sou <b> Wesley Bezerra Martins</b>.
 </p>
