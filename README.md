@@ -36,7 +36,7 @@ Moro em São Caetano do Sul/SP-BR.<br />
   - Estudar sobre Segurança da Informação, DevOps, UI e UX design; 
   - Pesquisar conteúdos sobre startups;
   - Ler livros;
-  - Cozinhar;
+  - História da arte;
 - 📫 Se quiser pode enviar um email para wesleybezerramartins@gmail.com
 
 <p>
